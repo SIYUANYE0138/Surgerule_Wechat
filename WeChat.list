@@ -276,6 +276,10 @@ DOMAIN-KEYWORD,61.241.49.
 IP-CIDR,124.163.0.0/16,WeChat,no-resolve
 IP-CIDR,183.3.0.0/16,WeChat,no-resolve
 IP-CIDR,203.205.128.0/17,WeChat,no-resolve
+IP-CIDR,218.60.0.0/16,WeChat,no-resolve
+IP-CIDR,101.32.0.0/16,WeChat,no-resolve
+IP-CIDR,124.163.0.0/16,WeChat,no-resolve
+IP-CIDR,183.3.0.0/16,WeChat,no-resolve
 DOMAIN-SUFFIX,weixin.qq.com,WeChat
 DOMAIN-SUFFIX,qpic.cn,WeChat
 DOMAIN-SUFFIX,qlogo.cn,WeChat
