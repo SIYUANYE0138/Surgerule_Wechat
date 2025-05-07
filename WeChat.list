@@ -273,13 +273,16 @@ DOMAIN-KEYWORD,61.241.31.
 DOMAIN-KEYWORD,61.241.44.
 DOMAIN-KEYWORD,61.241.47.
 DOMAIN-KEYWORD,61.241.49.
+# 微信图片/音视频资源常见 CDN IP 段（腾讯云 + 联通/电信）
 IP-CIDR,124.163.0.0/16,WeChat,no-resolve
 IP-CIDR,183.3.0.0/16,WeChat,no-resolve
 IP-CIDR,203.205.128.0/17,WeChat,no-resolve
-IP-CIDR,218.60.0.0/16,WeChat,no-resolve
 IP-CIDR,101.32.0.0/16,WeChat,no-resolve
-IP-CIDR,124.163.0.0/16,WeChat,no-resolve
-IP-CIDR,183.3.0.0/16,WeChat,no-resolve
+IP-CIDR,129.226.0.0/16,WeChat,no-resolve
+IP-CIDR,106.11.0.0/16,WeChat,no-resolve
+IP-CIDR,182.254.0.0/16,WeChat,no-resolve
+IP-CIDR,116.128.0.0/16,WeChat,no-resolve
+IP-CIDR,218.60.0.0/16,WeChat,no-resolve
 DOMAIN-SUFFIX,weixin.qq.com,WeChat
 DOMAIN-SUFFIX,qpic.cn,WeChat
 DOMAIN-SUFFIX,qlogo.cn,WeChat
